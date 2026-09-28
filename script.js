@@ -1,0 +1,1 @@
+console.log("Lakefront Omena website loaded successfully!");
